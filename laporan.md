@@ -1,7 +1,7 @@
 # Klasifikasi Kelayakan Konsumsi Jamur Berdasarkan Ciri Fisik Menggunakan Algoritma Decision Tree dan Naive Bayes
 
 ## 1. Judul Proyek
-*   **Kelompok 17** 
+*   **Kelompok 18** 
     1. Ruby Nabiel Muzaffar Hidayat
 *   **Domain Proyek (Latar Belakang):**
     Aktivitas mencari makanan liar (*foraging*) di alam semakin populer, namun hal ini membawa risiko fatal akibat keracunan jamur liar. Beberapa jamur beracun memiliki kemiripan fisik dengan jamur yang aman dikonsumsi sehingga identifikasi manual seringkali bias dan tidak akurat. Oleh karena itu, pendekatan *Machine Learning* sangat dibutuhkan untuk mengklasifikasikan kelayakan konsumsi jamur secara otomatis dan akurat berdasarkan karakteristik fisiknya.
