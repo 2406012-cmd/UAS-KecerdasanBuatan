@@ -1,0 +1,5 @@
+1. Schlimmer, J. (1987). Mushroom Database. *UCI Machine Learning Repository*. https://doi.org/10.24432/C5959T
+2. Hayami, R. (2022). Klasifikasi Jamur Menggunakan Algoritma Naïve Bayes. Jurnal Computer Science and Information Technology https://ejurnal.umri.ac.id/index.php/coscitech/article/view/3685.
+3. Lim, VR. (2025). Klasifikasi Kelayakan Konsumsi Jamur Menggunakan Algoritma K-Nearest Neighbors, Decision Tree, Support Vector Machine dan Gradient Boosting Classifier. Jurnal Ilmu Komputer dan Informatika [(JKI) Universitas Tarumanagara.](https://journal.untar.ac.id/index.php/JKI/article/view/35640)
+4. Saifudin, MAR. (2026). Analisis Perbandingan Hasil Kerja Algoritma C4.5 (Decision Tree) dan Naive Bayes. Jurnal Ilmiah Teknik Elektro Komputer dan Informatika [ (JITET) Universitas Lampung.](https://journal.eng.unila.ac.id/index.php/jitet/article/view/9084)
+5. Tarawneh, O. (2023). Mushroom classification using machine-learning techniques. [AIP Conference Proceedings](https://pubs.aip.org/aip/acp/article-abstract/2979/1/030003/2917941/Mushroom-classification-using-machine-learning).
